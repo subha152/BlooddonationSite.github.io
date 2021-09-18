@@ -1,0 +1,876 @@
+
+
+/***************************** Custom *******************************/
+
+@media (max-width: 2560px) {}
+
+@media (max-width: 1920px) {}
+
+@media (max-width: 1800px) {
+	
+.container-fluid {
+	padding: 0 140px;
+}
+   
+    
+ ul.navbar-nav li a {
+	font-size: 19px;
+}   
+
+  
+}
+
+@media (max-width: 1680px) {
+.container-fluid {
+	padding: 0 120px;
+}
+.bnfit-ad p {
+	font-size: 18px;
+	line-height: 37px;
+}
+  .has-search .form-control {
+	width: 310px;
+	height: 56px;
+	
+} 
+  .ban-frm {
+	padding: 57px 59px;
+}  
+ .banner-section.inn-bnr .inn-bntxt h2 {
+	font-size: 50px;
+	line-height: 67px;
+}   
+ /*****4-1 goutam******/
+.medical-product-outr .row{
+	margin:0 -15px 122.5px;
+} 
+.medical-product-outr .row:nth-child(2n) .we-sc.we-sc1 {
+    padding-left:39.38px;
+}
+.mediacal-product-sec::before {
+    height:48.13px;
+    bottom: -48.13px;
+}     
+}
+
+@media (max-width: 1440px) {
+
+ .container-fluid {
+	padding: 0 90px;
+}   
+.hd-top {
+	padding: 10px 0;
+}
+  .hd-top p {
+	font-size: 15px;
+}  
+    
+ .hdr-logo {
+	width: 195px;
+}   
+ .has-search .form-control {
+	width: 265px;
+	height: 47px;
+	padding-left: 19px;
+}   
+    ul.navbar-nav li a {
+	font-size: 16px;
+}
+ ul.navbar-nav li {
+	margin-right: 25px;
+}   
+ ul.navbar-nav li a img {
+	min-height: 29px;
+	margin-bottom: 7px;
+	width: 25px;
+}   
+ .has-search .form-control::placeholder {
+	font-size: 19px;
+}   
+ .ban-frm h3 {
+	font-size: 52px;
+	line-height: 64px;
+}   
+ .ban-txt p {
+	font-size: 23px;
+	margin: 18px 0 30px;
+}   
+ .ban-frm label {
+	font-size: 21px;
+}
+ .submit-innr .submit-btn {
+	height: 65px;
+	font-size: 20px;
+	width: 227px;
+}   
+ .ban-frm input::placeholder {
+	font-size: 18px;
+}   
+ .ban-frm label {
+	font-size: 21px;
+
+}   
+ .submit-innr {
+	bottom: -28px;
+}   
+ .banner-outr {
+	width: 64%;
+}   
+ .cmn-hdr h2 {
+	font-size: 48px;
+	line-height: 66px;
+}   
+   .common-btn {
+	font-size: 19px;
+	padding: 15px 31px;
+} 
+ .cmn-hdr p {
+	font-size: 18px;
+	line-height: 36px;
+}   
+  .ins-sec {
+	padding: 88px 0 120px;
+}  
+  .bnfit-sec {
+	padding: 50px 0;
+}  
+  .bnfit-ad h3 {
+	font-size: 25px;
+	padding: 20px 0 8px;
+}  
+  .sub-sec {
+	padding: 120px 0 50px;
+}  
+ .sub-sec .ban-frm h3 {
+	font-size: 45px;
+} 
+   .message-bx textarea {
+	height: 136px;
+	font-size: 18px;
+} 
+  .li-pic {
+	width: 65px;
+	height: 65px;
+}  
+   .li-pic img {
+	width: 30px;
+} 
+  .li-txt h4 {
+	font-size: 24px;
+}  
+  .li-txt p, .li-txt address, .li-txt a {
+	font-size: 16px;
+}  
+ .li-txt {
+	padding-left: 18px;
+}   
+ .ftr-menu p {
+	line-height: 34px;
+}
+ .ftr-menu ul li a, .seqr-social-outr ul li a, .ftr-menu p {
+	font-size: 16px;
+}   
+  .cont-frm-innr .form-control::placeholder, .contact-form input::placeholder {
+	font-size: 18px;
+}  
+ .contact-form form input[type="submit"] {
+	font-size: 16px;
+	height: 53px;
+	width: 210px;
+} 
+ .ftr-menu h3 {
+	font-size: 29px;
+	margin: 0 0 17px;
+}   
+ .footer-btm-otr p, .footer-btm-otr p a {
+	font-size: 14px;
+}   
+   .socila-bx ul li a {
+	width: 40px;
+	height: 40px;
+} 
+  .socila-bx ul li a .fa, .socila-bx ul li a .fab {
+	font-size: 20px;
+}  
+    
+.ban-frm input {
+	height: 48px;
+}    
+    
+  .banner-outr {
+	top: 80px;
+}  
+  ul.navbar-nav li a::before {
+	bottom: -17px;
+	height: 8px;
+	
+}  
+  .banner-section.inn-bnr .inn-bntxt h2 {
+	
+	font-size: 41px;
+	line-height: 58px;
+}  
+    .banner-section.inn-bnr .banner-outr .container-fluid {
+	padding-right: 95px;
+}
+    .banner-section.inn-bnr .banner-outr {
+	width: 55%;
+}
+/*****4-1 goutam******/
+.medical-product-outr .row{
+	margin:0 -15px 105px;
+}    
+.medical-product-outr .row:nth-child(2n) .we-sc.we-sc1 {
+    padding-left:33.75px;
+} 
+.mediacal-product-sec::before {
+    height:41.25px;
+    bottom: -41.25px;
+}    
+}
+
+@media (max-width: 1366px) {
+.container-fluid {
+	padding: 0 80px;
+}
+  .sub-sec .ban-frm h3 {
+	font-size: 38px;
+}
+  .cmn-hdr h2 {
+	font-size: 41px;
+	line-height: 51px;
+}
+  
+    
+    ul.navbar-nav li a {
+	font-size: 15px;
+}
+  
+   .bnfit-ad p {
+	font-size: 15px;
+	line-height: 32px;
+}  
+  .has-search .form-control {
+	width: 243px;
+	height: 40px;
+	padding-left: 16px;
+}  
+   .has-search .form-control::placeholder {
+	font-size: 16px;
+}
+    
+}
+
+@media (max-width: 1280px) {
+.container-fluid {
+	padding: 0 60px;
+}
+  .ban-txt p {
+	font-size: 21px;
+	margin: 18px 0 25px;
+}  
+  .ban-frm h3 {
+	font-size: 45px;
+	line-height: 56px;
+}  
+ .ban-frm {
+	padding: 38px 45px;
+} 
+  
+  .ban-frm label {
+	font-size: 17px;
+}  
+ 
+/*****4-1 goutam******/
+.medical-product-outr .row{
+	margin:0 -15px 92.4px;
+}   
+.medical-product-outr .row:nth-child(2n) .we-sc.we-sc1 {
+    padding-left:29.7px;
+}  
+.mediacal-product-sec::before {
+    height:36.3px;
+    bottom: -36.3px;
+}  
+  
+   
+    
+}
+
+@media (max-width:1199px) {
+ 
+.ftr-menu img {
+	width: 194px;
+}    
+    
+ .ftr-menu ul li a, .seqr-social-outr ul li a, .ftr-menu p {
+    font-size: 14px;
+}
+.ftr-menu p {
+    line-height: 30px;
+}  
+ .contact-form form input[type="email"] {
+	height: 46px;
+	padding-left: 14px;
+}  
+ .cont-frm-innr .form-control::placeholder, .contact-form input::placeholder {
+	font-size: 15px;
+}   
+.contact-form form input[type="submit"] {
+	font-size: 14px;
+	height: 47px;
+	width: 180px;
+}    
+ .ftr-ul-menu {
+	padding: 14px 0px;
+}   
+    .cmn-hdr p {
+	font-size: 16px;
+	line-height: 32px;
+}
+  .has-search .form-control {
+	width: 208px;
+} 
+    .banner-section.inn-bnr .inn-bntxt h2 {
+	font-size: 32px;
+	line-height: 48px;
+}
+    .banner-section.inn-bnr .banner-outr .container-fluid {
+	padding-right: 45px;
+}
+}
+@media (max-width:1080px) {
+    .container-fluid {
+	padding: 0 40px;
+}
+   .banner-outr {
+	top: 50px;
+}
+   .ban-frm h3 {
+	font-size: 38px;
+	line-height: 49px;
+}
+  .ban-txt p {
+	font-size: 18px;
+	margin: 18px 0 20px;
+}
+   .submit-innr .submit-btn {
+	height: 54px;
+	font-size: 19px;
+	width: 198px;
+} 
+  .banner-section .banner-outr .container-fluid {
+	padding-right: 45px;
+}  
+  .we-sc.we-sc1 {
+	padding-right: 23px;
+}
+  .ban-frm input::placeholder {
+	font-size: 15px;
+}  
+   .message-bx textarea {
+	height: 113px;
+	font-size: 15px;
+} 
+ .ins-sec {
+	padding: 59px 0 90px;
+}   
+ .bnfit-sec::after {
+	height: 49px;
+	top: -42px;
+}   
+  .bnfit-sec::before {
+	height: 50px;
+	bottom: -45px;
+}  
+    
+  .bnfit-pic img {
+	width: 85px;
+}  
+ .bnfit-ad p {
+	font-size: 14px;
+	line-height: 27px;margin-bottom: 5px;
+}   
+  .sub-sec {
+	padding: 90px 0 38px;
+}  
+  .bnfit-sec {
+	padding: 40px 0;
+}  
+   .cmn-hdr h2 {
+	font-size: 38px;
+	line-height: 48px;
+}
+    
+  .sub-sec .ban-frm h3 {
+	font-size: 33px;
+}  
+    .cmn-hdr p {
+	font-size: 15px;
+	line-height: 28px;
+}
+ .li-txt h4 {
+	font-size: 21px;
+}   
+ .li-txt p, .li-txt address, .li-txt a {
+	font-size: 14px;
+}   
+   .li-pic {
+	width: 57px;
+	height: 57px;
+} 
+ .li-pic img {
+	width: 25px;
+}   
+   .ftr-menu h3 {
+	font-size: 23px;
+	margin: 0 0 17px;
+} 
+ .footer-btm-otr p, .footer-btm-otr p a {
+	font-size: 12.5px;
+}   
+/*****4-1 goutam******/
+.medical-product-outr .row{
+	margin:0 -15px 78.75px;
+}
+.medical-product-outr .row:nth-child(2n) .we-sc.we-sc1 {
+    padding-left:25.31px;
+}  
+.mediacal-product-sec::before {
+    height:30.94px;
+    bottom: -30.94px;
+}      
+}
+
+@media (max-width:1024px) {
+
+   
+}
+
+@media (max-width: 991px) {
+.cus_nav {
+		position: relative;
+	}
+	/*As Per Design Change*/
+	.navbar-nav {
+		background: #fff;
+		padding: 10px 0;
+		text-align: center;
+	}
+	.navbar-nav li {
+	padding: 10px 0px;
+}
+	.nav-link {
+		font-size: 14.5px;
+		padding: 10px 0px !important;
+		-webkit-transition: all 0.5s;
+		-o-transition: all 0.5s;
+		transition: all 0.5s;
+	}
+ul.navbar-nav li a:hover:focus, ul.navbar-nav li a:hover:hover {
+	/* background: #c5a84f; */
+	color: #e1242a !important;
+}
+	.navbar {
+		position: static;
+	}
+	.navbar .navbar-toggler {
+	position: absolute;
+	right: 20px;
+	border: none;
+	outline: none;
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 0;
+	top: 6%;
+	
+	transform: none;
+}
+	.navbar .navbar-toggler-icon {
+		background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(0, 0, 0, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+	}
+	.navbar-light .navbar-toggler-icon:active,
+	.navbar-light .navbar-toggler-icon:focus {
+		outline: 0;
+	}
+	.collapse:not(.show) {
+		display: none;
+	}
+	.navbar-collapse {
+	position: absolute;
+	z-index: 999;
+	left: 0;
+	right: 15px;
+	top: 0;
+	margin: 71px auto auto auto;
+	width: 100%;
+}
+	.hdr-btn {
+		padding-left: 0;
+		padding-right: 35px;
+	}
+.cus_nav_outr {
+    padding: 25px 0px;
+}
+.hdr-logo {
+	width: 170px;
+}
+
+.upper_hdr_inr {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: flex-end;
+}
+.navbar .navbar-toggler {
+    right: 30px;
+    }
+.hdr-btn {
+    padding-right: 36px;
+}
+.nav_area {
+    position: static;
+}
+    
+/*
+ .navbar-header {
+	display: none;
+}   
+  .mobile-menu {
+	display: block;
+}  
+*/
+ul.navbar-nav li a::before {
+	bottom: 0px;
+	height: 4px;
+	z-index: 1;
+}
+  
+  ul.navbar-nav li {
+	margin-right: 0;
+}  
+.ban-frm h3 {
+	font-size: 27px;
+	line-height: 36px;
+}    
+  .ban-txt p {
+	font-size: 16px;
+	margin: 10px 0 12px;
+}
+  .ban-frm label {
+	font-size: 14px;
+}
+  .ban-frm {
+	padding: 29px ;
+}
+  .submit-innr .submit-btn {
+	height: 48px;
+	font-size: 16px;
+	width: 168px;
+}  
+  .cmn-hdr h2 {
+	font-size: 32px;
+	line-height: 43px;
+}  
+  .common-btn {
+	font-size: 15px;
+	padding: 13px 22px;
+}  
+ .bnfit-sec .row {
+	
+	justify-content: center;
+}  
+ .ftr-menu ul li a, .seqr-social-outr ul li a, .ftr-menu p {
+	font-size: 13px;
+}
+    
+   .ftr-ul-menu {
+	display: block;
+	text-align: center;
+} 
+ .socila-bx ul {
+	
+	justify-content: center;
+	margin-top: 12px;
+}   
+ .navbar .navbar-toggler {
+	top: 26%;
+	/* transform: translateY(-50%); */
+} 
+   .bnfit-sec.spk-sec::before {
+	height: 48px;
+	bottom: -45px;
+} 
+    
+    .bnfit-sec.spk-sec::after {
+	height: 49px;
+	top: -46px;
+}
+    
+}
+
+@media (max-width: 900px) {
+/*****4-1 goutam******/
+.medical-product-outr .row{
+	margin:0 -15px 61.43px;
+} 
+.mediacal-product-sec::before {
+    height:24.13px;
+    bottom: -24.13px;
+}  
+    
+}
+
+@media (max-width: 812px) {
+.container-fluid {
+	padding: 0 25px;
+}
+ .ftr-menu h3 {
+	font-size: 20px;
+	margin: 0 0 17px;
+}   
+    
+  .ftr-menu img {
+	width: 130px;
+}  
+ .footer-outr .row .cm-ft:nth-child(2) {
+		-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+}   
+  .footer-outr .row .cm-ft {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+}  
+  .ftr-menu ul li a, .seqr-social-outr ul li a, .ftr-menu p {
+	margin-top: 0;
+}  
+   footer {
+	background-size: cover;
+} 
+    .ftr-menu h3 {
+	font-size: 20px;
+	margin: 15px 0 9px;
+}
+ .ins-sec {
+	padding: 59px 0 25px;
+}   
+ .ban-txt p {
+	font-size: 13px;
+	margin: 5px 0 5px;
+}
+.ban-frm input {
+	height: 38px;
+	padding: 0 8px;
+}  
+ .has-search .form-control {
+	width: 205px;
+	margin-right: 20px;
+	height: 37px;
+}
+  .hd-top p {
+	font-size: 13px;
+}  
+  .cmn-hdr h2 {
+	font-size: 25px;
+	line-height: 38px;
+}  
+ .cmn-hdr p {
+	font-size: 14px;
+	line-height: 26px;
+}  
+    .banner-section.inn-bnr .inn-bntxt h2 {
+	font-size: 26px;
+	line-height: 41px;
+}
+/*****4-1 goutam******/
+.medical-product-outr .row{
+	margin:0 -15px 55px;
+} 
+}
+
+@media (max-width: 768px) {
+.banner-outr {
+	top: 35px;
+}
+}
+
+@media (max-width: 767px) {
+.cmn-hdr.whtt h2 br {
+	display: none;
+}	
+ .banner-section .banner-outr .container-fluid {
+	padding-right: 25px;
+}
+ .banner-outr {
+    width: 100%;
+
+    position: static;   
+    }
+    
+ .ins-pic {
+	margin-bottom: 20px;
+}   
+  .banner-section.inn-bnr .banner-outr {
+	width: 100%;
+	background: #000;
+	padding: 20px 0;
+	text-align: center;
+}
+  .sub-sec {
+	padding: 40px 0 38px;
+}  
+    .bnfit-sec.spk-sec {
+	padding: 40px 0 10px;
+}
+ /*****4-1 goutam******/
+.medical-product-outr .row{
+	margin:0 -15px 35px;
+}  
+.medical-product-outr .row .we-sc.we-sc1 {
+    padding-right: 15px;
+    padding-left: 15px;
+}   
+.medical-product-outr .row:nth-child(2n) .we-sc.we-sc1 {
+    padding-left: 15px;
+}
+.medical-product-outr .row {
+    margin: 0 -15px 25px;
+}
+.medical-product-outr .cmn-hdr h2::before {
+    left: 20px;
+}
+.mediacal-product-sec::before {
+    height:20.13px;
+    bottom: -20.13px;
+}
+}
+
+@media (max-width: 667px) {
+.bnfit-ad h3 {
+	font-size: 21px;
+	padding: 13px 0 7px;
+}
+}
+
+
+@media (max-width:600px) {
+.ban-frm {
+	padding: 20px 0;
+}
+   
+}
+
+@media (max-width:575px) {
+    .mn-all {
+	margin-bottom: 18px;
+}
+
+}
+
+
+@media (max-width:484px) {
+.navbar .navbar-toggler {
+	right: 20px;
+	
+}
+ .hdr-logo {
+	width: 120px;
+}
+ .has-search .form-control {
+	width: 182px;
+	margin-right: 6px;
+	height: 32px;
+}   
+ .has-search .form-control::placeholder {
+	font-size: 14px;
+}
+   
+    .cmn-hdr h2::before {
+	height: 8px;
+	left: 48px;
+	
+}
+    .sub-sec .ban-frm .submit-innr {
+	margin-top: 2px;
+	
+}
+   .has-search .form-control {
+	background-size: 14px;
+} 
+}
+
+@media (max-width:420px) {
+ .ban-frm h3 {
+	font-size: 24px;
+	line-height: 31px;
+}
+  .cmn-hdr h2 {
+	font-size: 21px;
+	line-height: 36px;
+} 
+  .socila-bx ul li a {
+	width: 34px;
+	height: 34px;
+}
+   .li-txt h4 {
+	font-size: 18px;
+} 
+  .banner-section.inn-bnr .inn-bntxt h2 br{
+	display: none;
+}  
+  .banner-section.inn-bnr .inn-bntxt h2 {
+	font-size: 22px;
+	line-height: 33px;
+}  
+   .bnfit-sec.spk-sec::before {
+	height: 27px;
+	bottom: -24px;
+}
+    .bnfit-sec.spk-sec {
+	padding: 24px 0 10px;
+}
+    .bnfit-sec.spk-sec::after {
+	height: 32px;
+	top: -25px;
+}
+}
+
+@media (max-width:384px) {
+.has-search .form-control {
+	width: 149px;
+	margin-right: 3px;
+	height: 30px;
+}
+  header .container-fluid {
+	padding: 0 15px;
+}  
+   .navbar .navbar-toggler {
+	right: 11px;
+	top: 7%;
+
+	font-size: 16px;
+}
+ .top-footer {
+	padding: 32px 0 28px;
+} 
+    .li-pic {
+	width: 48px;
+	height: 48px;
+}
+}
+
+@media (max-width:360px) {
+.has-search .form-control {
+	width: 123px;
+	margin-right: 3px;
+	height: 28px;
+}
+}
+
+@media (max-width:320px) {
+
+}
+
+@media (max-width:330px) {}
+
